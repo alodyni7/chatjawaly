@@ -1225,7 +1225,7 @@
         var V = document["createElement"]("div");
         (V["className"] = "bn-theme-copy"),
             (V["innerHTML"] =
-                "<div\x20class=\x22bn-theme-heading\x22>تفعيل\x20المود\x20الوطني</div><div\x20class=\x22bn-theme-sub\x22>يآوطنٌ\x20تجــسد\x20بـ\x20اروآحنا\x20/\x20برعاية\x20ريم الغلا</div>"),
+                "<div\x20class=\x22bn-theme-heading\x22>تفعيل\x20المود\x20الوطني</div><div\x20class=\x22bn-theme-sub\x22>سنوات من المجد وما زلنا نعانق السماء، دام عزك يا وطن</div>"),
             (Q["onclick"] = function () {
                 if (!T()) return l(![]), ![];
                 return e(J() ? "original" : "national"), ![];
