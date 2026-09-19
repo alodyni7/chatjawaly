@@ -1,4 +1,4 @@
-(function () {
+(function () { 
     "use strict";
     var m = "bnat-saudi-national-theme",
         b = "bnat-royal-js",
